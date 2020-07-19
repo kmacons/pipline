@@ -1,0 +1,4 @@
+webapp:
+  image: moabuhelal/phpapp
+  ports:
+    - "80:80"
